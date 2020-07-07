@@ -3,6 +3,6 @@ def introduction (name)
  end
 
 def introduction_with_language (name, language)
-  puts "Hi, my name is #{name} and my language is #{language}"
+  puts "Hi, my name is #{name} and my language is #{language}."
 end
 
